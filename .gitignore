@@ -15,5 +15,7 @@
 .DS_Store
 .prettierrc.json
 
-# VsCode
+# vscode
 .vscode
+
+*.map

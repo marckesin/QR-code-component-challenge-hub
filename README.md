@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/marckesin/qr-code-component-challenge-hub/badge/main)](https://www.codefactor.io/repository/github/marckesin/qr-code-component-challenge-hub/overview/main) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
